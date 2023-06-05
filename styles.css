@@ -1,0 +1,8 @@
+.card-container {
+    border: 10px solid gold;
+    display: inline-block;
+}
+.card-name > p {
+    margin: 0px;
+    text-align: center;
+}
